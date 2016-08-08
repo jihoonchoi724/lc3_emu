@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1470641582 source:c:\users\paul\documents\c++ projects\lc-3 emulator\main.cpp
+	<iostream>
+	<string>
+	"reader.h"
+
+1470641502 c:\users\paul\documents\c++ projects\lc-3 emulator\reader.cpp
+	<iostream>
+	<string>
+	"opcodes.h"
+
+1470640876 c:\users\paul\documents\c++ projects\lc-3 emulator\opcodes.cpp
+	<iostream>
+	<string>
+
+1470641498 source:c:\users\paul\documents\c++ projects\lc-3 emulator\opcodes.cpp
+	<iostream>
+	<string>
+	"opcodes.h"
+
+1470641574 source:c:\users\paul\documents\c++ projects\lc-3 emulator\reader.cpp
+	<iostream>
+	<string>
+	"reader.h"
+	"opcodes.h"
+
+1470641488 c:\users\paul\documents\c++ projects\lc-3 emulator\opcodes.h
+
+1470641556 c:\users\paul\documents\c++ projects\lc-3 emulator\reader.h
+
